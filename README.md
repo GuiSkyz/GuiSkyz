@@ -108,6 +108,13 @@ Plataforma voltada para automação de processos e fluxos inteligentes, unindo i
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiSkyz&theme=tokyonight&hide_border=true" />
 </p>
 
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 ---
 
 ## 🎯 O que eu gosto de construir
@@ -133,7 +140,3 @@ Plataforma voltada para automação de processos e fluxos inteligentes, unindo i
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GuiSkyz&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" alt="contador de visitas" />
-</p>
