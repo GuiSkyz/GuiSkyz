@@ -112,7 +112,7 @@ Plataforma voltada para automação de processos e fluxos inteligentes, unindo i
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://github.com/GuiSkyz/GuiSkyz/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/GuiSkyz/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
