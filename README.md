@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEUUSUARIO">
+  <a href="https://github.com/GuiSkyz">
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/SEUUSUARIO">
+  <a href="https://linkedin.com/in/guilherme-menezes27">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:guisilvestrefm@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -100,12 +100,12 @@ Plataforma voltada para automação de processos e fluxos inteligentes, unindo i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuiSkyz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSkyz&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiSkyz&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -124,10 +124,10 @@ Plataforma voltada para automação de processos e fluxos inteligentes, unindo i
 ## 🤝 Contato
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEUUSUARIO" target="_blank">
+  <a href="https://linkedin.com/in/guilherme-menezes27" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:guisilvestrefm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -135,5 +135,5 @@ Plataforma voltada para automação de processos e fluxos inteligentes, unindo i
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=GuiSkyz&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" alt="contador de visitas" />
 </p>
