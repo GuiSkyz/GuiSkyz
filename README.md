@@ -336,17 +336,19 @@ A pergunta que mais me interessa não é:
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=GuiSkyz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuiSkyz&theme=github_dark"
+    alt="GitHub Profile Details"
   />
 </p>
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSkyz&layout=compact&hide_border=true&langs_count=8"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuiSkyz&theme=github_dark"
+    alt="Repositories per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuiSkyz&theme=github_dark"
+    alt="GitHub Stats"
   />
 </p>
 
@@ -362,8 +364,4 @@ Construindo sistemas para aprender a pensar sistemas.
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=GuiSkyz&style=flat-square&label=Profile+Views" />
-
 </div>
-```
-
